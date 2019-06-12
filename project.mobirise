@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-06-10_1647",
-    "currentPage": "index.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1532,7 +1532,7 @@
         }
       ]
     },
-    "page1.html": {
+    "thankyou.html": {
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Thank You",
